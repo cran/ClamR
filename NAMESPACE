@@ -1,0 +1,8 @@
+# Export all names
+exportPattern(".")
+import(stats)
+importFrom("grDevices", "grey", "rgb")
+importFrom("graphics", "axis", "box", "legend", "lines", "locator",
+              "mtext", "par", "plot", "points", "polygon", "segments",
+              "title")
+
