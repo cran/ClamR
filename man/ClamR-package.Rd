@@ -13,17 +13,7 @@ This program implements and improves upon the Wilkinson and Ivany approach to
   dx should be chosen to be approximately half a cycle or more.
 
 }
-\details{
-\tabular{ll}{
-Package: \tab ClamR\cr
-Type: \tab Package\cr
-Version: \tab 1.0\cr
-Date: \tab 2009-12-23\cr
-License: \tab GPL\cr
-LazyLoad: \tab yes\cr
-}
 
-}
 \author{
 Jonathan M. Lees
 
